@@ -2,4 +2,4 @@
 .ftpquota
 .well-known
 assets/img/life
-assets/.DS_Store
+.DS_Store
