@@ -1,3 +1,5 @@
-/.DS_Store
-/.ftpquota
-/.well-known
+.DS_Store
+.ftpquota
+.well-known
+assets/img/life
+assets/.DS_Store
